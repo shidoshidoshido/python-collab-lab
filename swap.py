@@ -3,9 +3,8 @@
 
 Written by: Harley Dangan
 
-A minimal Python template demonstrating a simple swap utility and
-typical structure for scripts: imports, functions, CLI entrypoint,
-and basic tests.
+A Python template demonstrating a simple way to swap two values without using a temporary variable. 
+The script takes two command-line arguments, swaps them, and prints the results before and after swapping.
 
 Usage:
 	python swap.py 1 2
